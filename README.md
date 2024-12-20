@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello, I am Oliver.
+
+Welcome to my GitHub. Here you will find small examples of, at this stage, work undertaken during the course of my time recently spent at Dev Academy Aotearoa.
+
+You will also find an example of previous work undertaken with a creative collaborator, and a work-in-progress 'proving ground' of sorts for me to experiment with various things, such as implementations of mathematical expressions, and audio libraries.
+
+With DevAcademy, we learned primarily JavaScript/TypeScript and the usage and implementations of React, Knex/SQLite, Express.js, and other contemporary web development tool sets. For my own projects going forward, although I will be continuing to utilise these tools, I will be gradually working towards proficiency in C##, in pursuit of my overaching goal of developing DSP tools and software.
+
+If desired, I may be contacted via:
+- 📫 oliver.macro@gmail.com
 
 <!--
 **oranmornz/oranmornz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
